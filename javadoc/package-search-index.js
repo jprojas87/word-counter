@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"datastructures"},{"l":"datastructures.bag"},{"l":"datastructures.graph"},{"l":"datastructures.hashtables"},{"l":"datastructures.list"},{"l":"datastructures.queue"},{"l":"datastructures.stack"},{"l":"text"},{"l":"utils"}];updateSearchResults();
